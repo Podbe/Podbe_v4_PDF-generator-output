@@ -3,7 +3,7 @@
 <pre>
 Method Get
 ----------
-
+request to:
 http://cdn.podbe.de/podbe_create-pdf.php?t=&lt;md5(podbe_timestamp + slug + qr)>
 
 
